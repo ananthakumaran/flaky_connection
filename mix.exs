@@ -29,6 +29,6 @@ defmodule FlakyConnection.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    [{:ranch, "~> 1.1.0"}]
+    [{:ranch, "~> 1.1"}]
   end
 end
